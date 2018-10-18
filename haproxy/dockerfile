@@ -1,0 +1,2 @@
+From docker.io/haproxy:1.7-alpine
+MAINTAINER menkeyi <2826634711@qq.com>
