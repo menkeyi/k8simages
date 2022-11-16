@@ -1,2 +1,2 @@
-From gcr.io/google_containers/pause-amd64:3.0
+From moby/buildkit:v0.10.3
 MAINTAINER menkeyi <2826634711@qq.com>
